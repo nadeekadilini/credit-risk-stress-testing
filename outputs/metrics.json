@@ -1,0 +1,8 @@
+{
+  "train_rows": 750,
+  "test_rows": 250,
+  "test_default_prevalence": 0.3,
+  "roc_auc": 0.8042666666666667,
+  "average_precision": 0.6508419990222502,
+  "brier_score": 0.1559824231680184
+}
